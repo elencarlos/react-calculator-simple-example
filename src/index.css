@@ -1,0 +1,16 @@
+body {
+  font-family: monospace;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+  background: linear-gradient(
+    to right,
+    rgb(83, 105, 118),
+    rgb(40, 94, 126),
+    rgb(11, 77, 116)
+  );
+}
